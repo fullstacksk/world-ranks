@@ -1,0 +1,21 @@
+.container {
+	padding: 24px;
+	height: 100vh;
+
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 32px;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 16px;
+	font-size: 0.7rem;
+	padding: 16px;
+}

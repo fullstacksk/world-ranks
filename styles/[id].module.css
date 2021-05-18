@@ -1,0 +1,24 @@
+.flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.flexColumn {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.textColor {
+	color: var(--text-color-secondary);
+	margin: 0;
+	padding: 0;
+}
+.neighbour {
+	height: 40px;
+	width: 80px;
+}
+
+.mTop {
+	margin-top: 16px;
+}

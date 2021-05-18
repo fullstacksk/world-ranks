@@ -1,0 +1,24 @@
+.row {
+	font-family: var(--font-family) !important;
+}
+.head,
+.headRoot {
+	background-color: var(--background-color-dark);
+}
+.bodyRowRoot {
+	transition: 200ms ease-in-out;
+}
+.bodyRowRoot:hover {
+	transform: translateY(-4px);
+	background-color: var(--background-color-dark);
+	cursor: pointer;
+}
+
+.flag {
+	width: 80px;
+	height: 40px;
+}
+.country_name {
+	display: flex;
+	align-items: center;
+}
