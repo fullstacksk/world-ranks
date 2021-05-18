@@ -3,10 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## World-Rank Screenshots
 
 ### Home Page
-[![w0rld-Rank-Home-Page](./assets/CountryList.png)](http://linkbook.in)
+[![w0rld-Rank-Home-Page](./assets/CountryList.png)](https://world-ranks-fullstacksk.vercel.app/)
 
 ### Country Page
-[![w0rld-Rank-Contry-Page](./assets/Country.png)](http://linkbook.in)
+[![w0rld-Rank-Contry-Page](./assets/Country.png)](https://world-ranks-fullstacksk.vercel.app/country/IND)
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://world-ranks-fullstacksk.vercel.app/](https://world-ranks-fullstacksk.vercel.app/) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
